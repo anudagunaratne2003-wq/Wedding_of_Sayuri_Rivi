@@ -361,8 +361,8 @@
   },
   {
     "id": "G61",
-    "name": "Mr. and Mrs. Lakmal",
-    "guestCount": 2,
+    "name": "Mr. and Mrs. Lakmal and Family",
+    "guestCount": 4,
    "table": "To Be Assigned"
   },
   {
@@ -1133,6 +1133,20 @@
       {
     "id": "G189",
     "name": "Mr and Mrs Shehan Wickramasekara",
+    "guestCount": 2,
+     "table": "To Be Assigned"
+  },
+  
+      {
+    "id": "G190",
+    "name": "⁠Mrs Charu",
+    "guestCount": 1,
+     "table": "To Be Assigned"
+  },
+  
+      {
+    "id": "G191",
+    "name": "Mr & Mrs Rangani Kasige",
     "guestCount": 2,
      "table": "To Be Assigned"
   }
